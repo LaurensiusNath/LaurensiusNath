@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Nathan<br><br>- 🔭 I’m working as Front-End Developer.<br>- 📚 I'm currently learning Next.JS, Typescript, Express and MongoDB.<br>- ⚡ In my free time I love to doing sports especially running.</p>
+<p align="left">I'm Nathan<br><br>- 🔭 I’m working as Front-End Developer.<br>- 📚 I'm currently learning Next.JS, Typescript, Express and MongoDB.<br>- ⚡ In my free time I love to doing sports especially running.<br/>- Please visit my <a href="https://laurensiusnath.framer.website/" target="_blank">profile website.</a></p>
 
 ###
 
